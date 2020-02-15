@@ -1,4 +1,7 @@
 # Знакомство с git
+## git  init
+## git add
+## git commit
 # Команды bash
 ## Работа с директориями
 * mkdir - создание папки
